@@ -24,6 +24,7 @@ REG NO: 21223040103
 ## CLASS DIAGRAM:
 ![image](https://github.com/user-attachments/assets/8adf9805-ed00-4a21-91e2-ce7e77de1e33)
 
+<br><br><br><br><br><br><br>
 
 ## RESULT:
 Thus, all the UML diagrams are successfully completed for the railway reservation system with the help of StarUML.
