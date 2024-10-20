@@ -19,7 +19,7 @@ REG NO: 21223040103
 ## SEQUENCE DIAGRAM:
 ![image](https://github.com/user-attachments/assets/80bde566-fb2c-46dd-8b51-3de789c91756)
 
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## CLASS DIAGRAM:
 ![image](https://github.com/user-attachments/assets/8adf9805-ed00-4a21-91e2-ce7e77de1e33)
